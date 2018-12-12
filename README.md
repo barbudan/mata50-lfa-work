@@ -1,5 +1,7 @@
 # Trabalho da disciplina Linguagens Formais e Autômatos (MATA50) -2018.2
 
+## Trabalho Desenvolvido por Danilo de Andrade Peleteiro e Dimitri Marinho
+
 Especificação:
 https://www.moodle.ufba.br/pluginfile.php/622749/mod_resource/content/1/T12018-2.pdf
 
